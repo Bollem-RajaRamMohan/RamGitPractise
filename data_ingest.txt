@@ -3,3 +3,4 @@ ram here actively working
 ingested some data 
 
 iam ingestig batch data
+bug fixed
